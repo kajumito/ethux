@@ -3,7 +3,7 @@ import WebFont from "webfontloader";
 
 WebFont.load({
   google: {
-    families: ["Raleway:300,400,500,700", "Pacifico"]
+    families: ["Raleway:300,400,500,700"]
   }
 });
 
